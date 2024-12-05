@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "780158362784",
+    "project_id": "wavr-4b058",
+    "storage_bucket": "wavr-4b058.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780158362784:android:8221fa5706374eb4f4d5c5",
+        "android_client_info": {
+          "package_name": "year3.project.wavr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCySaLFFleTBIWO_Nk4qiA7nP0T-t2o8sA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
